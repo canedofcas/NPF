@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Npf.Api", "Npf.Api\Npf.Api.csproj", "{4C69E09C-C9D4-4612-871B-6B9074D654DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C69E09C-C9D4-4612-871B-6B9074D654DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C69E09C-C9D4-4612-871B-6B9074D654DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C69E09C-C9D4-4612-871B-6B9074D654DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C69E09C-C9D4-4612-871B-6B9074D654DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F3E3B4F-8355-4026-955A-58C288182E62}
+	EndGlobalSection
+EndGlobal
